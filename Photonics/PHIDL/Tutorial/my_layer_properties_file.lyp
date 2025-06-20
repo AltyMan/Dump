@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-properties>
+ <properties>
+  <frame-color>#daa520</frame-color>
+  <fill-color>#daa520</fill-color>
+  <frame-brightness>-25</frame-brightness>
+  <dither-pattern>I2</dither-pattern>
+  <line-style/>
+  <valid>true</valid>
+  <visible>true</visible>
+  <transparent>false</transparent>
+  <width/>
+  <marked>false</marked>
+  <xfill>false</xfill>
+  <animation>0</animation>
+  <name>4/0 - au - (Gold wiring)</name>
+  <source>4/0@1</source>
+ </properties>
+ <properties>
+  <frame-color>#6680b2</frame-color>
+  <fill-color>#6680b2</fill-color>
+  <frame-brightness>-25</frame-brightness>
+  <dither-pattern>I5</dither-pattern>
+  <line-style/>
+  <valid>true</valid>
+  <visible>true</visible>
+  <transparent>false</transparent>
+  <width/>
+  <marked>false</marked>
+  <xfill>false</xfill>
+  <animation>0</animation>
+  <name>5/0 - nb - (Niobium liftoff)</name>
+  <source>5/0@1</source>
+ </properties>
+ <properties>
+  <frame-color>#add8e6</frame-color>
+  <fill-color>#add8e6</fill-color>
+  <frame-brightness>-25</frame-brightness>
+  <dither-pattern>I9</dither-pattern>
+  <line-style/>
+  <valid>true</valid>
+  <visible>true</visible>
+  <transparent>false</transparent>
+  <width/>
+  <marked>false</marked>
+  <xfill>false</xfill>
+  <animation>0</animation>
+  <name>6/0 - nb_etch</name>
+  <source>6/0@1</source>
+ </properties>
+ <properties>
+  <frame-color>#008000</frame-color>
+  <fill-color>#008000</fill-color>
+  <frame-brightness>-25</frame-brightness>
+  <dither-pattern>I17</dither-pattern>
+  <line-style/>
+  <valid>true</valid>
+  <visible>true</visible>
+  <transparent>false</transparent>
+  <width/>
+  <marked>false</marked>
+  <xfill>false</xfill>
+  <animation>0</animation>
+  <name>8/2 - silicon</name>
+  <source>8/2@1</source>
+ </properties>
+</layer-properties>
